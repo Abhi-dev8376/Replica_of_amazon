@@ -25,14 +25,17 @@
     border: 1.5px solid transparent;
 }
 .border:hover{
-    border:1.5px solid white;
+    border:1.5px solid white ;
 }
+
 
 .add-first{
     color:#cccccc;
     font-size:0.85rem;
     margin-left: 15px;
 }
+
+
 .add-sec{
     font-size:1 rem;
     margin-left:3px;
